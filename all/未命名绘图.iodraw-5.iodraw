@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ADb0S-AJGJUOS5fd64bL">
-    <mxGraphModel dx="1656" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2380" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="793" y="828" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iUb8oA9TQOgB8kcypTHz-10" value="宽频段信号采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="796" y="926" width="204" height="49" as="geometry" />
+          <mxGeometry x="793" y="926" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iUb8oA9TQOgB8kcypTHz-11" value="分段自适应处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="1025" width="205" height="49" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="795" y="710" width="185" height="43" as="geometry" />
         </mxCell>
         <mxCell id="iUb8oA9TQOgB8kcypTHz-17" value="抗干扰+同步数字化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="831" width="148" height="43" as="geometry" />
+          <mxGeometry x="1060" y="834" width="148" height="43" as="geometry" />
         </mxCell>
         <mxCell id="iUb8oA9TQOgB8kcypTHz-18" value="动态分频+特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1514" y="929" width="148" height="43" as="geometry" />
