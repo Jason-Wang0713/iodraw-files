@@ -335,32 +335,6 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-81" value="15维高维特征向量输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1627.5" y="3007" width="221" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-71" target="6tMNQBDqULpbnGkCid2a-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1233" y="3293" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-72" target="6tMNQBDqULpbnGkCid2a-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1525" y="3293" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-72" target="6tMNQBDqULpbnGkCid2a-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-72" target="6tMNQBDqULpbnGkCid2a-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2092" y="3293" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-53" value="宽频段信号采集模块输入接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1898" y="2678" width="273" height="57" as="geometry" />
         </mxCell>
