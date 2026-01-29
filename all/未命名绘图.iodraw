@@ -297,7 +297,7 @@
           <mxGeometry x="1898" y="2619" width="273" height="59" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-69" value="分段自适应处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="2920" width="803" height="49" as="geometry" />
+          <mxGeometry x="1038" y="2920" width="809" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-70" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1038" y="3007" width="207" height="49" as="geometry" />
@@ -384,13 +384,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2092" y="3293" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-69" target="6tMNQBDqULpbnGkCid2a-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2060" y="3194" />
             </Array>
           </mxGeometry>
         </mxCell>
