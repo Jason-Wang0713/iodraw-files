@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-1" value="复合传感阵列模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="611" y="1762" width="120" height="49" as="geometry" />
+          <mxGeometry x="731" y="1811" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-2" value="宽频段信号采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="1809" width="204" height="49" as="geometry" />
@@ -168,11 +168,6 @@
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-10" value="分域特征提取&#xa;单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="904" y="1762" width="87" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-1" target="6tMNQBDqULpbnGkCid2a-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-3" target="6tMNQBDqULpbnGkCid2a-4">
           <mxGeometry relative="1" as="geometry">
