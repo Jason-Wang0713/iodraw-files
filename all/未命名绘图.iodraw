@@ -246,7 +246,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-40" value="分布式阵列布局单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="2640" width="275" height="92" as="geometry" />
+          <mxGeometry x="1482" y="2640" width="199" height="92" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-41" value="信号预调理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1761" y="2489" width="73" height="246" as="geometry" />
