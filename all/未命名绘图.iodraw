@@ -232,7 +232,7 @@
           <mxGeometry x="1040" y="2603" width="255" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="2788" width="253" height="66" as="geometry" />
+          <mxGeometry x="1444" y="2732" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-49" value="双绞屏蔽传输链路（抗EMI≥40dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1569" y="2788" width="254" height="66" as="geometry" />
@@ -288,13 +288,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1167" y="2578" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-40" target="6tMNQBDqULpbnGkCid2a-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1392" y="2763" />
             </Array>
           </mxGeometry>
         </mxCell>
