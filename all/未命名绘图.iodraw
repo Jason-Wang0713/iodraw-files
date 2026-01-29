@@ -320,7 +320,7 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-76" value="采样率自适应30kHz&#xa;80kHz&#xa;88.2kHz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1245" y="3114" width="98" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-77" value="量化精度动态优化（16/14/12位）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6tMNQBDqULpbnGkCid2a-77" value="量化精度&#xa;动态优化（16/14/12位）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1343" y="3114" width="94" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-78" value="低频段（4维时域特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
