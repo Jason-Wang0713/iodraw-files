@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ADb0S-AJGJUOS5fd64bL">
-    <mxGraphModel dx="2404" dy="676" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3862" dy="1458" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
           <mxGeometry x="1444" y="2489" width="275" height="107" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-39" value="多类型传感器复合单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2603" width="82" height="49" as="geometry" />
+          <mxGeometry x="9" y="2706" width="82" height="348" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-40" target="6tMNQBDqULpbnGkCid2a-48">
           <mxGeometry relative="1" as="geometry" />
@@ -220,22 +220,22 @@
           <mxGeometry x="2370" y="2689" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-42" value="压电陶瓷传感器（20Hz-5kHz，±0.5%精度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2603" width="257" height="66" as="geometry" />
+          <mxGeometry x="-322" y="2706" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-43" value="MEMS麦克风（1kHz-80kHz，±1%精度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2669" width="257" height="66" as="geometry" />
+          <mxGeometry x="-322" y="2772" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-44" value="阻抗匹配电路（π型网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2735" width="257" height="49" as="geometry" />
+          <mxGeometry x="-322" y="2838" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-45" value="相位校准单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2784" width="257" height="49" as="geometry" />
+          <mxGeometry x="-322" y="2887" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-46" value="温度漂移补偿单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2833" width="257" height="49" as="geometry" />
+          <mxGeometry x="-322" y="2936" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-47" value="信号融合模块（加权融合算法）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2882" width="257" height="66" as="geometry" />
+          <mxGeometry x="-322" y="2985" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1444" y="2793" width="138" height="66" as="geometry" />
