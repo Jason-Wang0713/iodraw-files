@@ -271,7 +271,7 @@
           <mxGeometry x="2014" y="2557" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-52" value="阻抗匹配（50Ω，反射损耗≤-20dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2014" y="2626" width="256" height="66" as="geometry" />
+          <mxGeometry x="2014" y="2623" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-53" target="6tMNQBDqULpbnGkCid2a-50">
           <mxGeometry relative="1" as="geometry">
@@ -428,7 +428,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-53" value="宽频段信号采集模块输入接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2012.5" y="2692" width="253" height="66" as="geometry" />
+          <mxGeometry x="2014" y="2689" width="253" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
