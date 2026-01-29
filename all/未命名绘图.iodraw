@@ -270,7 +270,7 @@
           <mxGeometry x="1000" y="2692" width="257" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="2793" width="138" height="66" as="geometry" />
+          <mxGeometry x="1482" y="2793" width="100" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-49" value="双绞屏蔽传输链路（抗EMI≥40dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1582" y="2793" width="103" height="66" as="geometry" />
