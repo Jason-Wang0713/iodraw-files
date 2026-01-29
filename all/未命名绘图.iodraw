@@ -161,10 +161,10 @@
           <mxGeometry x="857" y="2204" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-8" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="731" y="1762" width="78" height="49" as="geometry" />
+          <mxGeometry x="731" y="1762" width="87" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-9" value="分段采样优化单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="732" y="1811" width="77" height="49" as="geometry" />
+        <mxCell id="6tMNQBDqULpbnGkCid2a-9" value="分段采样优化&#xa;单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="732" y="1811" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-10" value="分域特征提取单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1102" y="1809" width="191" height="49" as="geometry" />
