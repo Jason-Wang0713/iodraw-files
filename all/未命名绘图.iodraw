@@ -258,10 +258,10 @@
           <mxGeometry x="969" y="2516" width="257" height="29" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-44" value="阻抗匹配电路（π型网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2550" width="257" height="25" as="geometry" />
+          <mxGeometry x="969" y="2599.5" width="257" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-45" value="相位校准单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2636" width="257" height="25" as="geometry" />
+          <mxGeometry x="969" y="2624" width="257" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-46" value="温度漂移补偿单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="969" y="2661" width="257" height="36" as="geometry" />
