@@ -232,10 +232,10 @@
           <mxGeometry x="1040" y="2603" width="255" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="2732" width="253" height="66" as="geometry" />
+          <mxGeometry x="1444" y="2732" width="138" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-49" value="双绞屏蔽传输链路（抗EMI≥40dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1569" y="2788" width="254" height="66" as="geometry" />
+          <mxGeometry x="1582" y="2732" width="137" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-50" value="低噪声前置放大（NSV2019，30-60dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1873" y="2788" width="250" height="66" as="geometry" />
