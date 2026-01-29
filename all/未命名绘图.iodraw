@@ -237,7 +237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-39" value="多类型传感器复合单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1301" y="2489" width="82" height="245" as="geometry" />
+          <mxGeometry x="1331" y="2489" width="82" height="245" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-40" target="6tMNQBDqULpbnGkCid2a-48">
           <mxGeometry relative="1" as="geometry" />
@@ -252,28 +252,28 @@
           <mxGeometry x="1761" y="2489" width="73" height="246" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-42" value="压电陶瓷传感器（20Hz-5kHz，±0.5%精度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2489" width="257" height="38" as="geometry" />
+          <mxGeometry x="1000" y="2489" width="257" height="38" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-43" value="MEMS麦克风（1kHz-80kHz，±1%精度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2527" width="257" height="44" as="geometry" />
+          <mxGeometry x="1000" y="2527" width="257" height="44" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-44" value="阻抗匹配电路（π型网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2569" width="257" height="41" as="geometry" />
+          <mxGeometry x="1000" y="2569" width="257" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-45" value="相位校准单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2609" width="257" height="44" as="geometry" />
+          <mxGeometry x="1000" y="2609" width="257" height="44" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-46" value="温度漂移补偿单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2651" width="257" height="41" as="geometry" />
+          <mxGeometry x="1000" y="2651" width="257" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-47" value="信号融合模块（加权融合算法）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2692" width="257" height="42" as="geometry" />
+          <mxGeometry x="1000" y="2692" width="257" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1444" y="2793" width="138" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-49" value="双绞屏蔽传输链路（抗EMI≥40dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1582" y="2793" width="137" height="66" as="geometry" />
+          <mxGeometry x="1582" y="2793" width="103" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-50" value="低噪声前置放大（NSV2019，30-60dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2014" y="2491" width="273" height="66" as="geometry" />
