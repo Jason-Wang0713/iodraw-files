@@ -205,7 +205,7 @@
           <mxGeometry x="1444" y="2489" width="275" height="107" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-39" value="多类型传感器复合单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="433" y="2504" width="221" height="49" as="geometry" />
+          <mxGeometry x="20" y="2603" width="82" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-40" target="6tMNQBDqULpbnGkCid2a-48">
           <mxGeometry relative="1" as="geometry" />
