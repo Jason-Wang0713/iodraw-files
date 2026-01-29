@@ -317,6 +317,9 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-70" target="6tMNQBDqULpbnGkCid2a-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-70" target="6tMNQBDqULpbnGkCid2a-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-70" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1038" y="3007" width="207" height="49" as="geometry" />
         </mxCell>
@@ -327,7 +330,7 @@
           <mxGeometry x="1436.5" y="3007" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-73" value="FFT频谱&#xa;分析&#xa;（1024点，0.1Hz分辨率）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="3114" width="72" height="167" as="geometry" />
+          <mxGeometry x="1038" y="3114" width="70" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-74" value="K-means&#xa;聚类&#xa;（3类）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1110" y="3114" width="67" height="167" as="geometry" />
