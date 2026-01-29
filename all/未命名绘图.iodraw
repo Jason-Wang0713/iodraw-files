@@ -296,6 +296,15 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-52" value="阻抗匹配（50Ω，反射损耗≤-20dB）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1898" y="2619" width="273" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-69" target="6tMNQBDqULpbnGkCid2a-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-69" target="6tMNQBDqULpbnGkCid2a-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-69" target="6tMNQBDqULpbnGkCid2a-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-69" value="分段自适应处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1038" y="2920" width="809" height="49" as="geometry" />
         </mxCell>
