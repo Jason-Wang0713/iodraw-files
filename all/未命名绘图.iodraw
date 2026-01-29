@@ -323,6 +323,12 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-70" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1038" y="3007" width="207" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-71" target="6tMNQBDqULpbnGkCid2a-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-71" target="6tMNQBDqULpbnGkCid2a-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-71" value="分段采样优化单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1245" y="3007" width="191" height="49" as="geometry" />
         </mxCell>
