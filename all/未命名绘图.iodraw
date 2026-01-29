@@ -167,7 +167,7 @@
           <mxGeometry x="732" y="1811" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-10" value="分域特征提取单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="1809" width="191" height="49" as="geometry" />
+          <mxGeometry x="731" y="1713" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-1" target="6tMNQBDqULpbnGkCid2a-2">
           <mxGeometry relative="1" as="geometry">
