@@ -1,0 +1,90 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="oFqPJMdsM66GhLsbDi2z">
+    <mxGraphModel dx="1237" dy="230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-1" value="RK3380H3/RK3308GK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="126.5" y="346" width="282.5" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vwFr76h3Hj3Hw_N0vRKm-2" target="vwFr76h3Hj3Hw_N0vRKm-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vwFr76h3Hj3Hw_N0vRKm-2" target="vwFr76h3Hj3Hw_N0vRKm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vwFr76h3Hj3Hw_N0vRKm-2" target="vwFr76h3Hj3Hw_N0vRKm-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-2" value="一级电源12V-5V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="111" width="53" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vwFr76h3Hj3Hw_N0vRKm-5" target="vwFr76h3Hj3Hw_N0vRKm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-5" value="9-36V供电" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="111" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vwFr76h3Hj3Hw_N0vRKm-9" target="vwFr76h3Hj3Hw_N0vRKm-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-17" value="DDR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vwFr76h3Hj3Hw_N0vRKm-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.019" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-9" value="二级电源5V-1.8/1.35V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="178" y="111" width="71" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-11" value="二级电源5V-1.04V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="178" y="151" width="72" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-12" value="二级电源5V-3.3V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="178" y="195" width="72" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vwFr76h3Hj3Hw_N0vRKm-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;DDR3L 1.35V&lt;br&gt;DDR2 1.8V&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="111" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;RK3380H3/RK3308GK,H3是内置的DDR3L&amp;nbsp; GK是内置的ddr2,参考RK3308H&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="260.5" width="232.25" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-2" value="外置DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="346" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_eOF2X8FdkYSIfgnMMe-4" target="L_eOF2X8FdkYSIfgnMMe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-4" value="DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="346" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_eOF2X8FdkYSIfgnMMe-7" target="L_eOF2X8FdkYSIfgnMMe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-7" value="SDIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="376" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-8" value="WIFI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="376" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L_eOF2X8FdkYSIfgnMMe-10" target="L_eOF2X8FdkYSIfgnMMe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-10" value="RMII" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="406" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-11" value="PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="406" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_eOF2X8FdkYSIfgnMMe-13" target="L_eOF2X8FdkYSIfgnMMe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-13" value="PDM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="436" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_eOF2X8FdkYSIfgnMMe-14" value="PDM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="436" width="54" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
