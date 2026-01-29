@@ -219,6 +219,12 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-39" target="6tMNQBDqULpbnGkCid2a-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-39" target="6tMNQBDqULpbnGkCid2a-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-39" target="6tMNQBDqULpbnGkCid2a-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-39" value="多类型传感器复合单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1300" y="2489" width="82" height="348" as="geometry" />
         </mxCell>
