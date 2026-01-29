@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-38" value="复合传感阵列模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1449" y="2590" width="189" height="49" as="geometry" />
+          <mxGeometry x="1449" y="2590" width="275" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-39" value="多类型传感器复合单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="2689" width="221" height="49" as="geometry" />
