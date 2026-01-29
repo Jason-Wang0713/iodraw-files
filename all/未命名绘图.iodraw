@@ -204,8 +204,12 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-38" target="6tMNQBDqULpbnGkCid2a-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-38" target="6tMNQBDqULpbnGkCid2a-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6tMNQBDqULpbnGkCid2a-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-38" target="6tMNQBDqULpbnGkCid2a-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1581" y="2610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-38" value="复合传感阵列模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1444" y="2489" width="275" height="107" as="geometry" />
