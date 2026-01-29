@@ -318,7 +318,7 @@
           <mxGeometry x="1177" y="3071" width="68" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-76" value="采样率自适应（30kHz/80kHz/88.2kHz）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="3071" width="98" height="66" as="geometry" />
+          <mxGeometry x="1245" y="3071" width="98" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-77" value="量化精度动态优化（16/14/12位）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1343" y="3071" width="94" height="66" as="geometry" />
