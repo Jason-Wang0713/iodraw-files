@@ -255,10 +255,10 @@
           <mxGeometry x="969" y="2489" width="257" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-43" value="MEMS麦克风（1kHz-80kHz，±1%精度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2555" width="257" height="66" as="geometry" />
+          <mxGeometry x="969" y="2516" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-44" value="阻抗匹配电路（π型网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2621" width="257" height="49" as="geometry" />
+          <mxGeometry x="969" y="2582" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-45" value="相位校准单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="969" y="2670" width="257" height="49" as="geometry" />
@@ -267,7 +267,7 @@
           <mxGeometry x="969" y="2719" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-47" value="信号融合模块（加权融合算法）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2768" width="257" height="66" as="geometry" />
+          <mxGeometry x="960" y="2779" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1444" y="2793" width="138" height="66" as="geometry" />
