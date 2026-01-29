@@ -161,7 +161,7 @@
           <mxGeometry x="729" y="1990" width="350" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-5" value="数据输出与通信模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="729" y="2105" width="351" height="49" as="geometry" />
+          <mxGeometry x="729" y="2080" width="351" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-6" value="本地监测终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="648" y="2204" width="159" height="49" as="geometry" />
