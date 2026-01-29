@@ -1,63 +1,29 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ADb0S-AJGJUOS5fd64bL">
-    <mxGraphModel dx="1904" dy="622" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="-578" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iUb8oA9TQOgB8kcypTHz-1" target="iUb8oA9TQOgB8kcypTHz-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-4" value="故障诊断装置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="350" y="803" width="1129" height="569" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-9" value="复合传感阵列模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="793" y="828" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-16" value="采集20Hz-80kHz全频段信号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="795" y="710" width="185" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-17" value="抗干扰+同步数字化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="834" width="148" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="iUb8oA9TQOgB8kcypTHz-16" target="iUb8oA9TQOgB8kcypTHz-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUb8oA9TQOgB8kcypTHz-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.75;entryY=0.01;rounded=0;" parent="1" source="iUb8oA9TQOgB8kcypTHz-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1002" y="901" />
-            </Array>
-            <mxPoint x="947.0408163265306" y="926" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-1" target="6tMNQBDqULpbnGkCid2a-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-1" value="复合传感阵列&#xa;模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="1731" width="87" height="49" as="geometry" />
+          <mxGeometry x="1477" y="1794" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-2" target="6tMNQBDqULpbnGkCid2a-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-2" value="宽频段信号采集模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="1811" width="87" height="49" as="geometry" />
+          <mxGeometry x="1477" y="1874" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-3" target="6tMNQBDqULpbnGkCid2a-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-3" value="分段自适应处理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="1903" width="349" height="49" as="geometry" />
+          <mxGeometry x="1477" y="1966" width="349" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-4" value="数据融合诊断模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="1990" width="350" height="49" as="geometry" />
+          <mxGeometry x="1477" y="2053" width="350" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-5" target="6tMNQBDqULpbnGkCid2a-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,31 +32,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-5" value="数据输出与通信模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="2080" width="351" height="49" as="geometry" />
+          <mxGeometry x="1477" y="2143" width="351" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-6" value="本地监测终端" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="2173" width="180" height="49" as="geometry" />
+          <mxGeometry x="1477" y="2236" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-7" value="远程平台" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="909" y="2173" width="171" height="49" as="geometry" />
+          <mxGeometry x="1657" y="2236" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-8" target="6tMNQBDqULpbnGkCid2a-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-8" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="816" y="1811" width="87" height="49" as="geometry" />
+          <mxGeometry x="1564" y="1874" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-9" target="6tMNQBDqULpbnGkCid2a-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-9" value="分段采样优化&#xa;单元" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="903" y="1811" width="86" height="49" as="geometry" />
+          <mxGeometry x="1651" y="1874" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6tMNQBDqULpbnGkCid2a-10" target="6tMNQBDqULpbnGkCid2a-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-10" value="分域特征提取&#xa;单元" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="989" y="1811" width="87" height="49" as="geometry" />
+          <mxGeometry x="1737" y="1874" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="6tMNQBDqULpbnGkCid2a-4" target="6tMNQBDqULpbnGkCid2a-5" edge="1">
           <mxGeometry relative="1" as="geometry">
