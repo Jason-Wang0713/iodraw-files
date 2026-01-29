@@ -374,6 +374,125 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-53" value="宽频段信号采集模块输入接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1898" y="2678" width="273" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-136" value="分段自适应处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2358" y="3284" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-137" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1322" y="3383" width="207" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-138" value="分段采样优化单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1952" y="3383" width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-139" value="分域特征提取单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2805" y="3383" width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-140" value="FFT频谱分析（1024点，0.1Hz分辨率）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="3482" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-141" value="K-means聚类（3类）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="3490" width="209" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-142" value="故障联动阈值动态更新（10s/次）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1579" y="3482" width="262" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-143" value="采样率自适应（30kHz/80kHz/88.2kHz）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1891" y="3482" width="260" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-144" value="量化精度动态优化（16/14/12位）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2201" y="3482" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-145" value="低频段（4维时域特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2506" y="3490" width="230" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-146" value="中频段（5维频域特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2786" y="3490" width="228" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-147" value="高频段（6维时频融合特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3065" y="3482" width="247" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-148" value="15维高维特征向量输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3046" y="3383" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-136" target="6tMNQBDqULpbnGkCid2a-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1425" y="3358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-136" target="6tMNQBDqULpbnGkCid2a-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2047" y="3358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-136" target="6tMNQBDqULpbnGkCid2a-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2900" y="3358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-152" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-137" target="6tMNQBDqULpbnGkCid2a-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1143" y="3457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-137" target="6tMNQBDqULpbnGkCid2a-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-137" target="6tMNQBDqULpbnGkCid2a-142">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1710" y="3457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-138" target="6tMNQBDqULpbnGkCid2a-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2021" y="3457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-156" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-138" target="6tMNQBDqULpbnGkCid2a-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2329" y="3457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-139" target="6tMNQBDqULpbnGkCid2a-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2621" y="3457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-158" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-139" target="6tMNQBDqULpbnGkCid2a-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-139" target="6tMNQBDqULpbnGkCid2a-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3188" y="3457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-136" target="6tMNQBDqULpbnGkCid2a-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3156" y="3358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
