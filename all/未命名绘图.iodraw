@@ -139,11 +139,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-1" value="复合传感阵列模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6tMNQBDqULpbnGkCid2a-1" value="复合传感阵列&#xa;模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="731" y="1811" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-2" value="宽频段信号采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1809" width="204" height="49" as="geometry" />
+          <mxGeometry x="614" y="1860" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-3" value="分段自适应处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="729" y="1908" width="205" height="49" as="geometry" />
