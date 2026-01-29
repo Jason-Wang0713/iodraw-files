@@ -248,6 +248,9 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-40" value="分布式阵列布局单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1482" y="2640" width="199" height="92" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-41" target="6tMNQBDqULpbnGkCid2a-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-41" value="信号预调理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1761" y="2489" width="73" height="246" as="geometry" />
         </mxCell>
@@ -404,7 +407,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-53" value="宽频段信号采集模块输入接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1898" y="2704" width="273" height="31" as="geometry" />
+          <mxGeometry x="1898" y="2678" width="273" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
