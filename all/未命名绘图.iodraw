@@ -327,7 +327,7 @@
           <mxGeometry x="1437" y="3071" width="59" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-79" value="中频段（5维频域特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1496" y="3069" width="67" height="49" as="geometry" />
+          <mxGeometry x="1496" y="3071" width="67" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-80" value="高频段（6维时频融合特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1563" y="3069" width="64.5" height="66" as="geometry" />
