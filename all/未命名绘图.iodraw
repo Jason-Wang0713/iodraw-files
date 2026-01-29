@@ -164,10 +164,10 @@
           <mxGeometry x="729" y="2080" width="351" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-6" value="本地监测终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="729" y="2204" width="180" height="49" as="geometry" />
+          <mxGeometry x="729" y="2173" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-7" value="远程平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="909" y="2204" width="171" height="49" as="geometry" />
+          <mxGeometry x="909" y="2173" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-8" target="6tMNQBDqULpbnGkCid2a-3">
           <mxGeometry relative="1" as="geometry" />
@@ -190,20 +190,6 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-4" target="6tMNQBDqULpbnGkCid2a-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-5" target="6tMNQBDqULpbnGkCid2a-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="728" y="2179" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-5" target="6tMNQBDqULpbnGkCid2a-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="936" y="2179" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-38" value="复合传感阵列模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
