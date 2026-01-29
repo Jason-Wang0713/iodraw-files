@@ -303,10 +303,10 @@
           <mxGeometry x="1038" y="3007" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-71" value="分段采样优化单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="856" y="3219" width="191" height="49" as="geometry" />
+          <mxGeometry x="1245" y="3007" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-72" value="分域特征提取单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1709" y="3219" width="191" height="49" as="geometry" />
+          <mxGeometry x="1436.5" y="3007" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-73" value="FFT频谱分析（1024点，0.1Hz分辨率）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-80" y="3318" width="254" height="66" as="geometry" />
@@ -333,7 +333,7 @@
           <mxGeometry x="1969" y="3318" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-81" value="15维高维特征向量输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="3219" width="221" height="49" as="geometry" />
+          <mxGeometry x="1627.5" y="3007" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-69" target="6tMNQBDqULpbnGkCid2a-70">
           <mxGeometry relative="1" as="geometry">
