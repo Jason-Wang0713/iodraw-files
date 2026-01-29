@@ -155,7 +155,7 @@
           <mxGeometry x="729" y="1903" width="349" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-4" value="数据融合诊断模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="737" y="2006" width="189" height="49" as="geometry" />
+          <mxGeometry x="729" y="1990" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-5" value="数据输出与通信模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="729" y="2105" width="205" height="49" as="geometry" />
@@ -172,8 +172,14 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-8" value="频段自适应划分单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="816" y="1811" width="87" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-9" target="6tMNQBDqULpbnGkCid2a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-9" value="分段采样优化&#xa;单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="903" y="1811" width="86" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-10" target="6tMNQBDqULpbnGkCid2a-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-10" value="分域特征提取&#xa;单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="989" y="1811" width="87" height="49" as="geometry" />
