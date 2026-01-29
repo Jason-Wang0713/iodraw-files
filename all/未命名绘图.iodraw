@@ -329,7 +329,7 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-79" value="中频段&#xa;5维&#xa;频域特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1496" y="3114" width="67" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-80" value="高频段（6维时频融合特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6tMNQBDqULpbnGkCid2a-80" value="高频段&#xa;6维&#xa;时频融合特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1563" y="3114" width="64.5" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-81" value="15维高维特征向量输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
