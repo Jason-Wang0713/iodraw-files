@@ -264,10 +264,10 @@
           <mxGeometry x="969" y="2624" width="257" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-46" value="温度漂移补偿单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2661" width="257" height="36" as="geometry" />
+          <mxGeometry x="969" y="2655" width="257" height="36" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-47" value="信号融合模块（加权融合算法）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="969" y="2697" width="257" height="37" as="geometry" />
+          <mxGeometry x="969" y="2691" width="257" height="43" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-48" value="3-6个磁吸传感节点（0.5-1.5m间距）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1444" y="2793" width="138" height="66" as="geometry" />
