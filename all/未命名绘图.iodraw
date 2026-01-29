@@ -229,10 +229,10 @@
           <mxGeometry x="-311" y="2735" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-45" value="相位校准单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2784" width="159" height="49" as="geometry" />
+          <mxGeometry x="-311" y="2784" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-46" value="温度漂移补偿单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2833" width="191" height="49" as="geometry" />
+          <mxGeometry x="-311" y="2833" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-47" value="信号融合模块（加权融合算法）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-311" y="2882" width="255" height="66" as="geometry" />
