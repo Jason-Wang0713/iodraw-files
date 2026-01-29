@@ -311,7 +311,7 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-73" value="FFT频谱&#xa;分析&#xa;（1024点，0.1Hz分辨率）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1038" y="3114" width="72" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="6tMNQBDqULpbnGkCid2a-74" value="K-means聚类（3类）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6tMNQBDqULpbnGkCid2a-74" value="K-means&#xa;聚类&#xa;（3类）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1110" y="3114" width="67" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-75" value="故障联动阈值动态更新（10s/次）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
