@@ -338,6 +338,9 @@
         <mxCell id="6tMNQBDqULpbnGkCid2a-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-72" target="6tMNQBDqULpbnGkCid2a-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6tMNQBDqULpbnGkCid2a-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tMNQBDqULpbnGkCid2a-72" target="6tMNQBDqULpbnGkCid2a-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-72" value="分域特征提取单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1436.5" y="3007" width="191" height="49" as="geometry" />
         </mxCell>
@@ -363,7 +366,7 @@
           <mxGeometry x="1496" y="3114" width="67" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-80" value="高频段&#xa;6维&#xa;时频融合特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1563" y="3114" width="64.5" height="167" as="geometry" />
+          <mxGeometry x="1566" y="3114" width="61.5" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-81" value="15维高维特征向量输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1627.5" y="3007" width="221" height="274" as="geometry" />
