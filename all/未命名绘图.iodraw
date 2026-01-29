@@ -312,7 +312,7 @@
           <mxGeometry x="1038" y="3071" width="72" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-74" value="K-means聚类（3类）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="3071" width="61" height="49" as="geometry" />
+          <mxGeometry x="1110" y="3071" width="67" height="67" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-75" value="故障联动阈值动态更新（10s/次）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1177" y="3071" width="68" height="66" as="geometry" />
