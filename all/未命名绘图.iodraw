@@ -223,10 +223,10 @@
           <mxGeometry x="-311" y="2603" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-43" value="MEMS麦克风（1kHz-80kHz，±1%精度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2669" width="249" height="66" as="geometry" />
+          <mxGeometry x="-311" y="2669" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-44" value="阻抗匹配电路（π型网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-311" y="2735" width="246" height="49" as="geometry" />
+          <mxGeometry x="-311" y="2735" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-45" value="相位校准单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-311" y="2784" width="159" height="49" as="geometry" />
