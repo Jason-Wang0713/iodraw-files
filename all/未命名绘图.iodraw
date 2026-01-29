@@ -309,31 +309,31 @@
           <mxGeometry x="1436.5" y="3007" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-73" value="FFT频谱分析（1024点，0.1Hz分辨率）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="3072" width="72" height="167" as="geometry" />
+          <mxGeometry x="1038" y="3114" width="72" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-74" value="K-means聚类（3类）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="3072" width="67" height="167" as="geometry" />
+          <mxGeometry x="1110" y="3114" width="67" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-75" value="故障联动阈值动态更新（10s/次）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="3072" width="68" height="167" as="geometry" />
+          <mxGeometry x="1177" y="3114" width="68" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-76" value="采样率自适应（30kHz/80kHz/88.2kHz）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="3072" width="98" height="167" as="geometry" />
+          <mxGeometry x="1245" y="3114" width="98" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-77" value="量化精度动态优化（16/14/12位）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1343" y="3072" width="94" height="167" as="geometry" />
+          <mxGeometry x="1343" y="3114" width="94" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-78" value="低频段（4维时域特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1437" y="3072" width="59" height="167" as="geometry" />
+          <mxGeometry x="1437" y="3114" width="59" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-79" value="中频段（5维频域特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1496" y="3072" width="67" height="167" as="geometry" />
+          <mxGeometry x="1496" y="3114" width="67" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-80" value="高频段（6维时频融合特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1563" y="3072" width="64.5" height="167" as="geometry" />
+          <mxGeometry x="1563" y="3114" width="64.5" height="167" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-81" value="15维高维特征向量输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1627.5" y="3007" width="221" height="231" as="geometry" />
+          <mxGeometry x="1627.5" y="3007" width="221" height="274" as="geometry" />
         </mxCell>
         <mxCell id="6tMNQBDqULpbnGkCid2a-53" value="宽频段信号采集模块输入接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1898" y="2678" width="273" height="57" as="geometry" />
